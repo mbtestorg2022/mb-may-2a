@@ -13,7 +13,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Video
 title: medium.mp4
-uid: 33dd08f8-3dc0-46d7-95d8-f3d6ab80fbaf
+uid: 4f80b840-0b36-4f03-ac6d-345eb27699e2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
