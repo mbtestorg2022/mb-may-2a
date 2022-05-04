@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-may-2a/fqvhri9wqayxsuw.jpeg
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-may-2a-modified/fqvhri9wqayxsuw.jpeg
 file_type: image/jpeg
 image_metadata:
   caption: ''
