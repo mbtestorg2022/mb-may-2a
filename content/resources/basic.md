@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/gdrive_uploads/mb-may-2a-modified/1TAq2H1eWP8s16WiLdA7CVeE_o_wXVtoY/basic.mp4
+file: /gdrive_uploads/mb-may-2a-modified/1TAq2H1eWP8s16WiLdA7CVeE_o_wXVtoY/basic.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
