@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "s3_path": "courses/mb-may-2a-modified",
+  "url_path": "[sitemetadata:primary_course_nr][sitemetadata:course_title]-[sitemetadata:term]-[sitemetadata:year]",
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "mb-may-2a-modified"
+  },
+  "course_image": {
+    "content": "",
+    "website": "mb-may-2a-modified"
+  },
+  "course_title": "MB May 2a",
+  "course_description": "sdfksdjfksdjf",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123456abc",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "mb-may-2a-modified"
+  },
+  "learning_resource_types": [],
+  "site_uid": "e0fba29e-e54d-4806-bed1-b95a6afc216e"
+}
