@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/mb-may-2a-fall-2022/fqvhri9wqayxsuw.jpeg
+file: /courses/mb-may-2a-modified/fqvhri9wqayxsuw.jpeg
 file_type: image/jpeg
 image_metadata:
   caption: ''
